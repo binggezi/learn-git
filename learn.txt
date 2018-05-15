@@ -1,1 +1,2 @@
 this is learn git.txt
+git is free software.
